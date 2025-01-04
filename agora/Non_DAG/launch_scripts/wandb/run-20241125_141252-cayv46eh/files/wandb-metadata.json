@@ -1,0 +1,47 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.11.9",
+    "heartbeatAt": "2024-11-25T13:12:53.277181",
+    "startedAt": "2024-11-25T13:12:52.573434",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\AH274303\\Documents\\GitHub\\episodic-incremental - nodags - Copie\\agora\\Non_DAG\\launch_scripts\\main-policygradient-ENERGIES.py",
+    "codePathLocal": "main-policygradient-ENERGIES.py",
+    "codePath": "main-policygradient-ENERGIES.py",
+    "host": "IS247316",
+    "username": "AH274303",
+    "executable": "C:\\Users\\AH274303\\AppData\\Local\\anaconda3\\envs\\CloudEnvironement\\python.exe",
+    "cpu_count": 14,
+    "cpu_count_logical": 20,
+    "cpu_freq": {
+        "current": 2400.0,
+        "min": 0.0,
+        "max": 2400.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400.0,
+            "min": 0.0,
+            "max": 2400.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 943.7177696228027,
+            "used": 476.60302352905273
+        }
+    },
+    "gpu": "NVIDIA RTX A1000 6GB Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA RTX A1000 6GB Laptop GPU",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 63.69209289550781
+    }
+}
